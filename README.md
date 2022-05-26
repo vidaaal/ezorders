@@ -1,6 +1,6 @@
  # ezOrders
  
- ezOrders is a project to help with food orders and changing its status, for better organization. It's made using socket so all the changes are in real time.
+ ezOrders é um projeto com objetivo de facilitar a organização de pedidos. É feito utilizando socket, então todas as atualizações e alterações são feitas em tempo real.
  
  ### Project Images
  
